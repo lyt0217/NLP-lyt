@@ -1,6 +1,6 @@
 # 毛利兰自我介绍
 # 毛利兰
-< img src=https://github.com/lyt0217/NLP-lyt/blob/main/image/maolilan.png alt="毛利兰形象" width = "200"  />
+<img src=https://github.com/lyt0217/NLP-lyt/blob/main/image/maolilan.png alt="毛利兰形象" width = "200"  />
 
 ## 基本信息
 - **姓名**：毛利兰
@@ -36,7 +36,7 @@
 毛利兰希望未来能够成为一名优秀的律师，像她的母亲妃英理一样，为正义而战。她相信，只要努力学习，不断积累经验，就一定能够实现自己的梦想。同时，她也期待着工藤新一能够早日恢复原状，和他一起创造美好的未来。
 
 ##### 我最喜欢的环境工具是minicond
-< img src=https://github.com/lyt0217/NLP-lyt/blob/main/image/1.png  width = "800" />
+<img src=https://github.com/lyt0217/NLP-lyt/blob/main/image/1.png  width = "800" />
 
 ##### 我可以在IDE上使用我建立的虚拟环境
-< img src=https://github.com/lyt0217/NLP-lyt/blob/main/image/first%20work.png width = "800" />
+<img src=https://github.com/lyt0217/NLP-lyt/blob/main/image/first%20work.png width = "800" />
